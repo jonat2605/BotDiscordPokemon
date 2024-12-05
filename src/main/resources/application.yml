@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: 'BotDiscordPokemon'
+
+token: 'discordToken'
+
+api:
+  pokemon: 'https://pokeapi.co/api/v2/pokemon/'
